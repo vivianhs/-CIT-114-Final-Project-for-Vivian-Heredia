@@ -2,7 +2,7 @@
 CIT 114 Final Project
 
 
-https://s3.amazonaws.com/vivian.heredia.cit114.finalproject/index.html
+https://s3.amazonaws.com/vivian.heredia.cit114.finalproject/index.htm
 
 
 
